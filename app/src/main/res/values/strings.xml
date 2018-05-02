@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HooshMasnooeiT2</string>
+    <string name="tv_tools">ابزارها</string>
+    <string name="et_node_name">نام گره</string>
+    <string name="btn_search">جستوجو</string>
+    <string name="btn_add_node">اضافه</string>
+    <string name="tv_result">: نتیجه</string>
+    <string name="bfs">BFS</string>
+    <string name="dfs">DFS</string>
+    <string name="btn_search_close">بستن</string>
+    <string name="btn_previous">قبلی</string>
+    <string name="tv_info_parent">گره پدر:</string>
+
+</resources>
